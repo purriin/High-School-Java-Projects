@@ -1,0 +1,9 @@
+Student Name: Rhodes, James
+Average Mark: 55
+
+Course:		Final Mark:		Course Average:
+======		==========		==============
+Math:		44			68
+English:	77			63
+Science:	69			65
+Art:		30			55

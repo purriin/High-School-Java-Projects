@@ -1,0 +1,9 @@
+Student Name: Pym, Hope
+Average Mark: 61
+
+Course:		Final Mark:		Course Average:
+======		==========		==============
+Math:		72			68
+English:	38			63
+Science:	53			65
+Art:		83			55

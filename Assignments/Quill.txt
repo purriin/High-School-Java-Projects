@@ -1,0 +1,9 @@
+Student Name: Quill, Peter
+Average Mark: 55
+
+Course:		Final Mark:		Course Average:
+======		==========		==============
+Math:		38			68
+English:	39			63
+Science:	83			65
+Art:		60			55

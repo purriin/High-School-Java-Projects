@@ -1,0 +1,9 @@
+Student Name: Buchanan, James
+Average Mark: 65
+
+Course:		Final Mark:		Course Average:
+======		==========		==============
+Math:		70			68
+English:	73			63
+Science:	71			65
+Art:		46			55

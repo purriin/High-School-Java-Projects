@@ -1,0 +1,9 @@
+Student Name: Strange, Steven
+Average Mark: 63
+
+Course:		Final Mark:		Course Average:
+======		==========		==============
+Math:		62			68
+English:	32			63
+Science:	76			65
+Art:		82			55

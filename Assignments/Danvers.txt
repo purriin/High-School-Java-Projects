@@ -1,0 +1,9 @@
+Student Name: Danvers, Carol
+Average Mark: 59
+
+Course:		Final Mark:		Course Average:
+======		==========		==============
+Math:		89			68
+English:	50			63
+Science:	62			65
+Art:		35			55

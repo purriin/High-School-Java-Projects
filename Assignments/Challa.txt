@@ -1,0 +1,9 @@
+Student Name: Challa, T
+Average Mark: 69
+
+Course:		Final Mark:		Course Average:
+======		==========		==============
+Math:		53			68
+English:	43			63
+Science:	82			65
+Art:		99			55

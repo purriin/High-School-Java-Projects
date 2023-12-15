@@ -1,0 +1,9 @@
+Student Name: Lang, Scott
+Average Mark: 65
+
+Course:		Final Mark:		Course Average:
+======		==========		==============
+Math:		96			68
+English:	96			63
+Science:	33			65
+Art:		37			55

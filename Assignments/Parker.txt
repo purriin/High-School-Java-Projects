@@ -1,0 +1,9 @@
+Student Name: Parker, Peter
+Average Mark: 66
+
+Course:		Final Mark:		Course Average:
+======		==========		==============
+Math:		96			68
+English:	91			63
+Science:	34			65
+Art:		45			55

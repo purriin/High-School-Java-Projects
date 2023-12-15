@@ -1,0 +1,9 @@
+Student Name: Barton, Clint
+Average Mark: 56
+
+Course:		Final Mark:		Course Average:
+======		==========		==============
+Math:		54			68
+English:	72			63
+Science:	62			65
+Art:		37			55

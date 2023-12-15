@@ -1,0 +1,9 @@
+Student Name: Stark, Tony
+Average Mark: 74
+
+Course:		Final Mark:		Course Average:
+======		==========		==============
+Math:		95			68
+English:	34			63
+Science:	95			65
+Art:		72			55

@@ -1,0 +1,9 @@
+Student Name: Fury, Nick
+Average Mark: 64
+
+Course:		Final Mark:		Course Average:
+======		==========		==============
+Math:		39			68
+English:	92			63
+Science:	46			65
+Art:		81			55

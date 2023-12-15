@@ -1,0 +1,9 @@
+Student Name: Maximoff, Wanda
+Average Mark: 65
+
+Course:		Final Mark:		Course Average:
+======		==========		==============
+Math:		51			68
+English:	82			63
+Science:	98			65
+Art:		30			55

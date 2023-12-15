@@ -1,0 +1,9 @@
+Student Name: Wilson, Sam
+Average Mark: 81
+
+Course:		Final Mark:		Course Average:
+======		==========		==============
+Math:		98			68
+English:	94			63
+Science:	73			65
+Art:		60			55

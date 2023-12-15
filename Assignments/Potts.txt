@@ -1,0 +1,9 @@
+Student Name: Potts, Pepper
+Average Mark: 47
+
+Course:		Final Mark:		Course Average:
+======		==========		==============
+Math:		42			68
+English:	34			63
+Science:	61			65
+Art:		51			55

@@ -1,0 +1,9 @@
+Student Name: Banner, Bruce
+Average Mark: 54
+
+Course:		Final Mark:		Course Average:
+======		==========		==============
+Math:		80			68
+English:	70			63
+Science:	35			65
+Art:		32			55

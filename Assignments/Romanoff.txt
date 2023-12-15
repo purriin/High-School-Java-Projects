@@ -1,0 +1,9 @@
+Student Name: Romanoff, Natasha
+Average Mark: 86
+
+Course:		Final Mark:		Course Average:
+======		==========		==============
+Math:		100			68
+English:	78			63
+Science:	77			65
+Art:		92			55
